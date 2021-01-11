@@ -1,0 +1,19 @@
+{
+  "name": "beacon-test-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "serve": "npx parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@airgap/beacon-sdk": "^2.0.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
+}
